@@ -1,0 +1,27 @@
+{
+  "id": "68f7ef47d68ee1a7419c646d",
+  "title": "Intro To Programming 2025",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "requirements": [
+      "No requirements specified."
+    ],
+    "submissionInstructions": "No submission instructions provided."
+  },
+  "createdBy": {
+    "name": "Mo S Rezaie",
+    "githubUsername": "msrezaie"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/intro-to-programming-2025",
+  "remoteGithubUrl": "https://github.com/msrezaie/intro-to-programming-2025-cbai2",
+  "createdAt": "2025-10-21T20:38:31.658Z",
+  "updatedAt": "2025-10-21T20:58:20.722Z",
+  "lessonCount": 15
+}
